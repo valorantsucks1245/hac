@@ -1,0 +1,24 @@
+#pragma once
+#include "framework.h"
+#include <cstdio>
+#include <fstream>
+#include <sstream>
+#include <vector>
+#include <windows.h>
+#include <optional>
+#include <deque>
+#include <random>
+#include <unordered_set>
+#include <cmath>
+#include <algorithm>
+#include <immintrin.h>
+#include <array>
+#include <chrono>     
+#include <numeric>
+#include <map>
+#include <iostream>
+//for upload reasons i use world lib but only these are really needed:
+#include <opencv2/core.hpp>
+#include <opencv2/highgui/highgui.hpp>
+#include <opencv2/imgproc/imgproc.hpp>
+#include <opencv2/imgcodecs/imgcodecs.hpp>
